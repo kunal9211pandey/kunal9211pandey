@@ -17,13 +17,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; column-gap: 10px;">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="height: 194px; width: auto;" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 194px; width: auto;" />
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunal9211pandey&theme=radical&no-frame=true&no-bg=true&margin-w=4)
