@@ -1,6 +1,6 @@
 ![logo](https://github.com/kunal9211pandey/kunal9211pandey/blob/main/1540327266210.jfif)
 <h1 align="center">Hi 👋, I'm Kunal Pandey</h1>
-<h3 align="center">A passionate Softwere Engineer from India</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 
 # 💫 About Me:
@@ -21,7 +21,7 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="width: 494px; height: auto;" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 494px; height:194px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: auto; height:194px;" />
 </div>
 
 
