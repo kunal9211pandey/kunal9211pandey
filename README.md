@@ -1,3 +1,8 @@
+![logo](https://github.com/kunal9211pandey/kunal9211pandey/blob/main/1540327266210.jfif)
+<h1 align="center">Hi 👋, I'm Kunal Pandey</h1>
+<h3 align="center">A passionate Softwere Engineer from India</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on a 100 Days Machine Learning and DSA Challenge .<br>👯 I’m looking to collaborate on open-source machine learning and data analysis projects .<br>🤝 I’m looking for help with mastering advanced machine learning techniques .<br>🌱 I’m currently learning advanced machine learning algorithms .<br>💬 Ask me about how to get started with machine learning and data analysis .<br>⚡ Fun fact - I am Lazy but Smart .
 
@@ -19,14 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 494px; height:194px;" />
 </div>
 
- 
-
-
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true) &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
- 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunal9211pandey&theme=radical&no-frame=true&no-bg=true&margin-w=4)
