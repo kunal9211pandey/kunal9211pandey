@@ -11,8 +11,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin: 10px;" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true) &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
