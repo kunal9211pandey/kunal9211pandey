@@ -16,14 +16,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="height: auto; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="padding: 10px; margin: 10px;" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 194px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="padding: 10px; margin: 10px;" />
 </div>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
