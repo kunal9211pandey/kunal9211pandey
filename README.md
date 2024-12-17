@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunal9211pandey&theme=radical&hide_border=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9211pandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
