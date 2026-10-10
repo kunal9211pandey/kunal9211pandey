@@ -6,14 +6,34 @@
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
-## Projects
+## Featured Projects
 
-| Project | What it does | Link |
-| --- | --- | --- |
-| **3D Generative Diffusion Model for CFD Flow Prediction** | A PyTorch diffusion network trained on 318 cases that predicts wind flow fields for any 3D building (.obj) file at 95% accuracy against the exact CFD solver, without re-running CFD. | Work project, no public repo |
-| **End-to-End ML/DL Portfolio** | Self-directed program covering EDA, machine learning and deep learning (CNN, RNN/LSTM, NLP). | [Open repo](https://github.com/kunal9211pandey/End-to-End-ML-DL-Portfolio) |
-| **LeetCode DSA solutions** | Data structures and algorithms problems with solutions. | [Open repo](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution) |
-| **GeeksforGeeks DSA solutions** | Data structures and algorithms problems with solutions. | [Open repo](https://github.com/kunal9211pandey/Greek-For-Greek-DSA-Problem-With-Solution) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>3D Generative Diffusion for CFD</h3>
+      <p>Predicts wind-flow fields for 3D building models without rerunning the CFD solver. A PyTorch diffusion model trained on 318 cases, with 95% accuracy against the exact solver.</p>
+      <sub>Work project · Private repository</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>End-to-End ML/DL Portfolio</h3>
+      <p>A hands-on learning journey through EDA, machine learning, and deep learning, including CNNs, RNN/LSTMs, and NLP.</p>
+      <a href="https://github.com/kunal9211pandey/End-to-End-ML-DL-Portfolio">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LeetCode DSA Solutions</h3>
+      <p>Solutions to data structures and algorithms problems from LeetCode.</p>
+      <a href="https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GeeksforGeeks DSA Solutions</h3>
+      <p>Solutions to data structures and algorithms problems from GeeksforGeeks.</p>
+      <a href="https://github.com/kunal9211pandey/Greek-For-Greek-DSA-Problem-With-Solution">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
 ![Connect](./assets/connect.svg?v=1)
 
