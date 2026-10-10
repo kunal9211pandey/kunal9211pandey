@@ -8,7 +8,7 @@
 
 ## 🚀 Featured Projects
 
-![Featured projects](./assets/projects.svg?v=1)
+![Featured projects](./assets/projects.svg?v=2)
 
 <p align="center">
   <a href="https://github.com/kunal9211pandey/End-to-End-ML-DL-Portfolio">ML/DL Portfolio</a> &nbsp;·&nbsp;

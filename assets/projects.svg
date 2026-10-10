@@ -29,11 +29,12 @@
   <clipPath id="p-clip"><rect width="1000" height="570" rx="28"/></clipPath>
   <style>
     text{font-family:Inter,"Segoe UI",Arial,sans-serif}
-    .title{font-size:21px;font-weight:700;fill:#eef2ff}
-    .desc{font-size:15px;fill:#b8c4da}
-    .eyebrow{font-size:11px;font-weight:700;letter-spacing:1.4px}
-    .chip{font-size:12px;font-weight:600}
-    .metric{font-size:13px;font-weight:700}
+    .display{font-family:"Arial Narrow",Impact,sans-serif;font-size:38px;font-weight:800;letter-spacing:1px}
+    .title{font-family:"Arial Narrow",Impact,"Segoe UI",sans-serif;font-size:21px;font-weight:700;letter-spacing:.35px;fill:#eef2ff}
+    .desc{font-family:"JetBrains Mono","Cascadia Code",Consolas,monospace;font-size:13px;fill:#b8c4da}
+    .eyebrow{font-family:"JetBrains Mono","Cascadia Code",Consolas,monospace;font-size:10px;font-weight:700;letter-spacing:1.2px}
+    .chip{font-family:"JetBrains Mono","Cascadia Code",Consolas,monospace;font-size:10px;font-weight:600}
+    .metric{font-family:"JetBrains Mono","Cascadia Code",Consolas,monospace;font-size:12px;font-weight:700}
   </style>
 </defs>
 <g clip-path="url(#p-clip)">
@@ -41,16 +42,16 @@
   <rect width="1000" height="570" fill="url(#p-dots)"/>
   <circle cx="140" cy="150" r="230" fill="#247bff" opacity=".055"/>
   <circle cx="865" cy="390" r="260" fill="#a855f7" opacity=".05"/>
-  <text x="38" y="48" fill="#eef2ff" font-size="27" font-weight="750">Featured Projects</text>
-  <text x="39" y="75" fill="#94a3b8" font-size="14">A selection of work across generative AI, machine learning, and problem solving.</text>
+  <text class="display" x="38" y="57" fill="#eef2ff">WHAT I BUILD</text>
+  <text x="40" y="82" fill="#94a3b8" font-size="12" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" letter-spacing=".25px">SELECTED PROJECTS  /  GENERATIVE AI · ML · PROBLEM SOLVING</text>
 
   <g>
     <rect x="30" y="100" width="458" height="202" rx="18" fill="url(#p-blue)" stroke="#60a5fa" stroke-opacity=".48"/>
     <path d="M49 101h420" stroke="#60a5fa" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
     <text class="eyebrow" x="52" y="128" fill="#7dd3fc">01  /  GENERATIVE AI</text>
-    <text class="title" x="52" y="160">Diffusion for 3D CFD</text>
-    <text class="desc" x="52" y="190">Predicts wind flow around 3D buildings without</text>
-    <text class="desc" x="52" y="212">rerunning the CFD solver.</text>
+    <text class="title" x="52" y="160">DIFFUSION FOR 3D CFD</text>
+    <text class="desc" x="52" y="190">Predicts wind flow around 3D buildings</text>
+    <text class="desc" x="52" y="211">without rerunning the CFD solver.</text>
     <rect x="52" y="232" width="74" height="24" rx="12" fill="#123b4f"/>
     <text class="chip" x="89" y="248" text-anchor="middle" fill="#bae6fd">PyTorch</text>
     <rect x="134" y="232" width="87" height="24" rx="12" fill="#332453"/>
@@ -67,9 +68,9 @@
     <rect x="512" y="100" width="458" height="202" rx="18" fill="url(#p-violet)" stroke="#a78bfa" stroke-opacity=".48"/>
     <path d="M531 101h420" stroke="#a78bfa" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
     <text class="eyebrow" x="534" y="128" fill="#c4b5fd">02  /  MACHINE LEARNING</text>
-    <text class="title" x="534" y="160">End-to-End ML/DL Portfolio</text>
-    <text class="desc" x="534" y="190">Hands-on projects spanning EDA, machine learning,</text>
-    <text class="desc" x="534" y="212">deep learning, and natural language processing.</text>
+    <text class="title" x="534" y="160">END-TO-END ML/DL PORTFOLIO</text>
+    <text class="desc" x="534" y="190">Projects across EDA, machine learning,</text>
+    <text class="desc" x="534" y="211">deep learning, and NLP.</text>
     <rect x="534" y="232" width="68" height="24" rx="12" fill="#203963"/>
     <text class="chip" x="568" y="248" text-anchor="middle" fill="#bfdbfe">Python</text>
     <rect x="610" y="232" width="119" height="24" rx="12" fill="#332453"/>
@@ -85,9 +86,9 @@
     <rect x="30" y="324" width="458" height="202" rx="18" fill="url(#p-orange)" stroke="#fdba74" stroke-opacity=".48"/>
     <path d="M49 325h420" stroke="#fdba74" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
     <text class="eyebrow" x="52" y="352" fill="#fdba74">03  /  PROBLEM SOLVING</text>
-    <text class="title" x="52" y="384">LeetCode DSA Solutions</text>
-    <text class="desc" x="52" y="414">Data structures and algorithms practice for</text>
-    <text class="desc" x="52" y="436">stronger problem-solving fundamentals.</text>
+    <text class="title" x="52" y="384">LEETCODE DSA SOLUTIONS</text>
+    <text class="desc" x="52" y="414">Data structures and algorithms practice</text>
+    <text class="desc" x="52" y="435">for stronger problem-solving skills.</text>
     <rect x="52" y="456" width="80" height="24" rx="12" fill="#49301a"/>
     <text class="chip" x="92" y="472" text-anchor="middle" fill="#fed7aa">LeetCode</text>
     <rect x="140" y="456" width="115" height="24" rx="12" fill="#49301a"/>
@@ -99,9 +100,9 @@
     <rect x="512" y="324" width="458" height="202" rx="18" fill="url(#p-green)" stroke="#6ee7b7" stroke-opacity=".48"/>
     <path d="M531 325h420" stroke="#6ee7b7" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
     <text class="eyebrow" x="534" y="352" fill="#6ee7b7">04  /  PROBLEM SOLVING</text>
-    <text class="title" x="534" y="384">GeeksforGeeks DSA Solutions</text>
-    <text class="desc" x="534" y="414">Solutions to core data structures and algorithm</text>
-    <text class="desc" x="534" y="436">problems from GeeksforGeeks.</text>
+    <text class="title" x="534" y="384">GEEKSFORGEEKS DSA SOLUTIONS</text>
+    <text class="desc" x="534" y="414">Solutions to core data structures</text>
+    <text class="desc" x="534" y="435">and algorithms problems.</text>
     <rect x="534" y="456" width="112" height="24" rx="12" fill="#1b4939"/>
     <text class="chip" x="590" y="472" text-anchor="middle" fill="#a7f3d0">GeeksforGeeks</text>
     <rect x="654" y="456" width="48" height="24" rx="12" fill="#1b4939"/>
